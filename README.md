@@ -19,3 +19,8 @@ Laravel es un marco de aplicación web con una sintaxis elegante y expresiva. Cr
 - [Procesamiento robusto de trabajos en segundo plano](https://laravel.com/docs/queues).
 - [Transmisión de eventos en tiempo real](https://laravel.com/docs/broadcasting).
 
+
+## Bienvenido 
+Profr. Ricardo Luna Santos
+
+
