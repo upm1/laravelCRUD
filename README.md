@@ -20,14 +20,8 @@ Laravel es un marco de aplicación web con una sintaxis elegante y expresiva. Cr
 - [Transmisión de eventos en tiempo real](https://laravel.com/docs/broadcasting).
 
 
-## Bienvenido 
-Profr. Ricardo Luna Santos
+## Bienvenido Profr. Ricardo Luna Santos
 
-BIENVENIDO PROFE A MI TRABAJO, ESTO ES UNA EXPLICACION DE LO QUE HACEMOS EN CLASE E
-INVESTIGACIONES EN INTERNE.
-SE REALIZO LA CONEXIÓN A UNA BASE DE DATOS CON AYUDA DE XAMPP SERVE QUE SE CREO LA
-BASE DE DATOS Y DESPUES SE CONECTO CON VISUAL STUDIO CODE CON APOYO DE MODELS Y
-MIGRACIONES COMO NOS HA ENSEÑADO. SE OCUPARON ALGUNAS PALABRAS QUE FUNCIONAN
-COMO CODIGO QUE HACEN QUE NO HALLA ERRORES EN LA CONEXIÓN CON LARAVEL
+Link del funcionamiento: Youtube.(https://youtu.be/tRXJfPuuoHw).
 
 
