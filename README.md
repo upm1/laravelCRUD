@@ -17,6 +17,17 @@ Laravel es un marco de aplicación web con una sintaxis elegante y expresiva. Cr
   Youtube: 
 <a href="https://youtu.be/tRXJfPuuoHw" target="_blank">Link del funcionamiento en video</a>.
 
+## Imagenes CRUD
 
+![read](https://user-images.githubusercontent.com/72426046/115499014-3f5d2480-a234-11eb-826d-00d643a59e9f.png)
+![create](https://user-images.githubusercontent.com/72426046/115499047-50a63100-a234-11eb-8043-dc23348b850b.png)
+![create1](https://user-images.githubusercontent.com/72426046/115499093-6a477880-a234-11eb-8524-210ba3ce9d99.png)
+![create2](https://user-images.githubusercontent.com/72426046/115499201-a4b11580-a234-11eb-96de-93cffbc7266a.png)
+![create3](https://user-images.githubusercontent.com/72426046/115499203-a549ac00-a234-11eb-825f-204ef54397a6.png)
+![edit](https://user-images.githubusercontent.com/72426046/115499205-a5e24280-a234-11eb-9fbf-44d9e53a4f23.png)
+![edit1](https://user-images.githubusercontent.com/72426046/115499206-a5e24280-a234-11eb-8a98-4c0e4431ae17.png)
+![edit2](https://user-images.githubusercontent.com/72426046/115499207-a67ad900-a234-11eb-85be-47464f8e425c.png)
+![delete](https://user-images.githubusercontent.com/72426046/115499208-a67ad900-a234-11eb-8855-df10bc1862e4.png)
+![delete1](https://user-images.githubusercontent.com/72426046/115499209-a7136f80-a234-11eb-9ed4-e76fadea00db.png)
 
 
