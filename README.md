@@ -19,7 +19,13 @@ Laravel es un marco de aplicación web con una sintaxis elegante y expresiva. Cr
 
 ## Explicacion Código
 ![1](https://user-images.githubusercontent.com/72426046/115499639-5fd9ae80-a235-11eb-9310-d4e2701a311a.JPG)
+![2](https://user-images.githubusercontent.com/72426046/115500060-3d946080-a236-11eb-890c-e67aef2c0529.JPG)
 
+![3](https://user-images.githubusercontent.com/72426046/115500063-3d946080-a236-11eb-880d-c1a510fb7701.JPG)
+![4](https://user-images.githubusercontent.com/72426046/115500065-3e2cf700-a236-11eb-8a98-44ebfde8906d.JPG)
+![5](https://user-images.githubusercontent.com/72426046/115500068-3e2cf700-a236-11eb-992d-425995283955.JPG)
+![6](https://user-images.githubusercontent.com/72426046/115500070-3ec58d80-a236-11eb-8b2d-c4cd5591f55d.JPG)
+![7](https://user-images.githubusercontent.com/72426046/115500059-3cfbca00-a236-11eb-8f6f-176d5b54ec81.JPG)
 
 ## Imagenes CRUD
 Read:
