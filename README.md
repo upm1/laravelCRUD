@@ -13,9 +13,9 @@ Laravel es un marco de aplicación web con una sintaxis elegante y expresiva. Cr
 
 - [Motor de enrutamiento simple y rápido](https://laravel.com/docs/routing).
 -[Potente contenedor de inyección de dependencia](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+- Múltiples back-end para el almacenamiento de [sesión](https://laravel.com/docs/session) y [caché](https://laravel.com/docs/cache).
+- Expresivo, intuitivo [base de datos ORM](https://laravel.com/docs/eloquent).
+- Agnóstico de base de datos [migraciones de esquema](https://laravel.com/docs/migrations).
+- [Procesamiento robusto de trabajos en segundo plano](https://laravel.com/docs/queues).
+- [Transmisión de eventos en tiempo real](https://laravel.com/docs/broadcasting).
 
