@@ -14,8 +14,8 @@ Laravel es un marco de aplicación web con una sintaxis elegante y expresiva. Cr
 
 ## Bienvenido Profr. Ricardo Luna Santos
 
- 
-<a href="https://youtu.be/tRXJfPuuoHw" target="_blank">Link del funcionamiento en video (youtube) </a>.
+  Youtube: 
+<a href="https://youtu.be/tRXJfPuuoHw" target="_blank">Link del funcionamiento en video</a>.
 
 
 
